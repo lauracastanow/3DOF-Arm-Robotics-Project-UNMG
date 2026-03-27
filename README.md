@@ -1,4 +1,4 @@
-# 3DOF-Arm-Robotics-Project-UNMG
+# 3DOF-Arm-Robotics-Project-UMNG
 Este proyecto consiste en el diseño, modelado y simulación de un brazo robótico de 3 grados de libertad. En el siguiente repositorio, se incluye el desarrollo mecánico en CAD, simulación en software, código de control y una interfaz interactiva para visualizar la cinemática inversa. 
 
 ## Objetivos
